@@ -7,4 +7,5 @@
   * [多文件合并](docs/multi_file_merge.md)
   * [xmL输入](docs/getdata_from_xml.md)
   * [json输入](docs/getdata_from_json.md)
+  * [生成记录](docs/gen_data.md)
   
