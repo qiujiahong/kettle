@@ -27,7 +27,6 @@
 </AllRows>
 ```
 
-## 操作步骤
 
 * input选择get data from xml,output 选择excel,并连接
 
