@@ -21,4 +21,5 @@
     * [contact fields](docs/contact_fileds.md)
     * [值映射](docs/value_map.md)
     * [增加常量](docs/constant.md)
+    * [增加序列](docs/add_seq.md)
     
