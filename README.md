@@ -19,3 +19,5 @@
     * [删除&常量](docs/del_output.md)
   * 转换
     * [contact fields](docs/contact_fileds.md)
+    * [值映射](docs/value_map.md)
+    
