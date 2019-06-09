@@ -28,7 +28,8 @@
     * [1.8.去重复、排序](docs/del_rep_sort.md)
     * [1.9.唯一行(哈希值)](docs/hash_value.md)
     * [1.10.拆分字段](docs/split_value.md)
-    * [1.11.列拆分为多行](docs/split_cloumn_to_rows.md)
+    * [1.11.列转行](docs/cloumn_to_rows.md)
+    
     
     
     
