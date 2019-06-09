@@ -531,12 +531,12 @@
       </field>
       <field>
         <name>phone</name>
-        <type>String</type>
+        <type>Number</type>
         <length>-1</length>
         <precision>-1</precision>
         <trim_type>none</trim_type>
         <repeat>N</repeat>
-        <format />
+        <format>0</format>
         <currency />
         <decimal />
         <group />
