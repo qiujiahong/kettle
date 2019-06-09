@@ -13,3 +13,5 @@
   * 输出 
     * [excel输出](docs/excel_output.md)
     * [SQL文件输出](docs/sql_output.md)
+    * [表输出](docs/table_output.md)
+    
