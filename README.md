@@ -22,4 +22,6 @@
     * [值映射](docs/value_map.md)
     * [增加常量](docs/constant.md)
     * [增加序列](docs/add_seq.md)
+    * [字段选择](docs/select.md)
+    
     
