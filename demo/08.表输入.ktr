@@ -435,7 +435,31 @@
   </info>
   <notepads>
   </notepads>
+  <connection>
+    <name>db1</name>
+    <server>127.0.0.1</server>
+    <type>MYSQL</type>
+    <access>Native</access>
+    <database>db1</database>
+    <port>3306</port>
+    <username>root</username>
+    <password>Encrypted 2be98afc86aa7f2e4cb79ff228dc6fa8c</password>
+    <servername />
+    <data_tablespace />
+    <index_tablespace />
+    <attributes>
+      <attribute>
+        <code>PORT_NUMBER</code>
+        <attribute>3306</attribute>
+      </attribute>
+    </attributes>
+  </connection>
   <order>
+    <hop>
+      <from>Table input</from>
+      <to>Microsoft Excel output</to>
+      <enabled>Y</enabled>
+    </hop>
   </order>
   <step>
     <name>Microsoft Excel output</name>
@@ -454,7 +478,7 @@
     <append>N</append>
     <add_to_result_filenames>Y</add_to_result_filenames>
     <file>
-      <name>file</name>
+      <name>/Users/nick/Desktop/study/kittle/demo/file.xls</name>
       <extention>xls</extention>
       <do_not_open_newfile_init>N</do_not_open_newfile_init>
       <create_parent_folder>N</create_parent_folder>
@@ -478,6 +502,21 @@
       <filename>template.xls</filename>
     </template>
     <fields>
+      <field>
+        <name>id</name>
+        <type>Integer</type>
+        <format>0</format>
+      </field>
+      <field>
+        <name>name</name>
+        <type>String</type>
+        <format />
+      </field>
+      <field>
+        <name>age</name>
+        <type>Integer</type>
+        <format>0</format>
+      </field>
     </fields>
     <custom>
       <header_font_name>arial</header_font_name>
@@ -505,8 +544,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>480</xloc>
-      <yloc>256</yloc>
+      <xloc>448</xloc>
+      <yloc>208</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -521,8 +560,13 @@
       <method>none</method>
       <schema_name />
     </partitioning>
-    <connection />
-    <sql>SELECT &lt;values> FROM &lt;table name> WHERE &lt;conditions></sql>
+    <connection>db1</connection>
+    <sql>SELECT
+  id
+, name
+, age
+FROM user
+</sql>
     <limit>0</limit>
     <lookup />
     <execute_each_row>N</execute_each_row>
@@ -537,8 +581,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>208</xloc>
-      <yloc>240</yloc>
+      <xloc>256</xloc>
+      <yloc>192</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
