@@ -15,4 +15,5 @@
     * [SQL文件输出](docs/sql_output.md)
     * [表输出](docs/table_output.md)
     * [更新](docs/update_output.md)
+    * [插入更新](docs/ins_update_output.md)
     
