@@ -29,6 +29,8 @@
     * [1.9.唯一行(哈希值)](docs/hash_value.md)
     * [1.10.拆分字段](docs/split_value.md)
     * [1.11.列转行](docs/cloumn_to_rows.md)
+    * [1.12.行转列](docs/row_to_cloumn.md)
+    
     
     
     
