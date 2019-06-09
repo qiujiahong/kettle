@@ -12,4 +12,4 @@
     * [表输入(MYSQL)](docs/table.md)
   * 输出 
     * [excel输出](docs/excel_output.md)
-    * 
+    * [SQL文件输出](docs/sql_output.md)
