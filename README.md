@@ -24,5 +24,6 @@
     * [1.4.增加序列](docs/add_seq.md)
     * [1.5.字段选择](docs/select.md)
     * [1.6.计算器](docs/calc.md)
+    * [1.7.字符串剪贴、替换、操作](docs/str_cat_replace.md)
     
     
