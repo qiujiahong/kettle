@@ -16,4 +16,4 @@
     * [表输出](docs/table_output.md)
     * [更新](docs/update_output.md)
     * [插入更新](docs/ins_update_output.md)
-    
+    * [删除&常量](docs/del_output.md)
