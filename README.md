@@ -25,7 +25,9 @@
     * [1.5.字段选择](docs/select.md)
     * [1.6.计算器](docs/calc.md)
     * [1.7.字符串剪贴、替换、操作](docs/str_cat_replace.md)
-    * [1.7.去重复、排序](docs/del_rep_sort.md)
-    * [1.7.唯一行(哈希值)](docs/hash_value.md)
+    * [1.8.去重复、排序](docs/del_rep_sort.md)
+    * [1.9.唯一行(哈希值)](docs/hash_value.md)
+    * [1.10.拆分字段](docs/split_value.md)
+    
     
     
