@@ -23,5 +23,6 @@
     * [1.3.增加常量](docs/constant.md)
     * [1.4.增加序列](docs/add_seq.md)
     * [1.5.字段选择](docs/select.md)
+    * [1.6.计算器](docs/calc.md)
     
     
