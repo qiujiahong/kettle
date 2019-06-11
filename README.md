@@ -32,8 +32,8 @@
     * [3.12.行转列](docs/row_to_cloumn.md)
     * [3.12.行扁平化](docs/row_flattening.md)
 * 应用
-    * [4.1.替换空值*](docs/replace_null.md)
-    * [4.2.写日志*](docs/write_logs.md)
+    * [4.1.替换空值](docs/replace_null.md)
+    * [4.2.写日志](docs/write_logs.md)
 * 流程空间
     * [5.1.switch case](docs/switch_case.md)
     * [5.2.过滤记录](docs/filtter.md)
