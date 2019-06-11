@@ -17,3 +17,4 @@ kettle有两种脚本文件transformation和job，transformation完成针对数�
 * carte是一个轻量级的web容器，用于建立专门的、远程的etl server。
 
 
+
